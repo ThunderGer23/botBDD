@@ -6,8 +6,6 @@ _Acá va un párrafo que describa lo que es el proyecto_
 
 _Este es un bot hecho por la bandita del pasillo lateral para la bandita del pasillo lateral :V/._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
 
 ### Pre-requisitos 📋
 
@@ -24,14 +22,12 @@ _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener 
 _Dí cómo será ese paso_
 
 ```
-Da un ejemplo
+npm init --yes
+npm i telegraf
+npm i nodemon
+npm i discordjs
 ```
 
-_Y repite_
-
-```
-hasta finalizar
-```
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
@@ -93,7 +89,7 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE) para detalles
 
 ## Expresiones de Gratitud 🎁
 
